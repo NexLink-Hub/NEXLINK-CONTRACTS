@@ -1,5 +1,9 @@
 # Web Development Services Contract System
 
+WHAT IS NEEDED FOR UPDATES 
+<img width="648" height="465" alt="image" src="https://github.com/user-attachments/assets/6bc33cb7-f890-4cf3-8127-b5b547e7acdb" />
+
+
 A professional digital contract system for web development services with PDF generation and email functionality. This system allows NexLink Solutions to create, customize, and send professional web development contracts to clients with just a few clicks.
 
 ## 🌟 Features
